@@ -69,4 +69,7 @@ public class Employee {
                 ", salary=" + salary +
                 '}';
     }
+    public void getEmpInfo(){
+        System.out.println("info");
+    }
 }
